@@ -40,8 +40,16 @@ Inverting amplifier:
 
 ## TABULATION:
 
+![WhatsApp Image 2025-10-18 at 08 41 25_4af55a0b](https://github.com/user-attachments/assets/fdfb8884-5076-4f4b-b977-26ddd7437594)
+
+## CALCULATION:
+
+![WhatsApp Image 2025-10-18 at 08 41 24_023e7249](https://github.com/user-attachments/assets/3ad5c939-4a1e-4049-821d-d79e767ad630)
+
 
 ## GRAPH:
+
+![WhatsApp Image 2025-10-18 at 08 41 24_588ce9f7](https://github.com/user-attachments/assets/ae1125a3-fc84-4ee3-b092-998c77481d56)
 
 
 ## RESULT:
